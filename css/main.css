@@ -5,3 +5,25 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+ margin: 0;
+}
+
+section {
+  overflow: hidden;
+}
+
+h2 {
+  text-align: center;
+}
+
+img {
+  width: 100px;
+}
+
+div {
+  float: left;
+  width: 25%;
+  border-left: 1px solid #333;
+}
