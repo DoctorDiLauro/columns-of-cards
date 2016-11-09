@@ -70,6 +70,10 @@ p {
   font-size: .875rem;
 }
 
+.btn:hover {
+  background-color: #000;
+}
+
 .quest {
   background-color: #e2e2e2;
 }
